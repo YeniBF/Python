@@ -7,8 +7,8 @@ puntaje = 0 #nos ayuda a tener el conteo de
 maxPuntaje = 0
 
 #Configuración
-window = turtle.Screen()                #Crea una ventana nueva
-window.title('Snake')                   #Ponemos titulo
+window = turtle.Screen() #Crea una ventana nueva
+window.title('Snake') #Ponemos titulo de nuestro videojuego 
 window.bgcolor('#353535')               #Color de fondo
 window.setup(width=600,height=600)      #Redimensionar pantalla
 window.tracer(0)                        #Ayuda a hacer la animación mas placentera
